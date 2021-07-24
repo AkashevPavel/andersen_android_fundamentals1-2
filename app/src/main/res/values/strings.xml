@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">android_fundamentals_lesson_2</string>
+    <string name="button_main">send</string>
+    <string name="message_received">message received</string>
+    <string name="editText_main">write</string>
+    <string name="button_second">reply</string>
+    <string name="editText_second">write an answer</string>
+    <string name="text_header">header second</string>
+    <string name="text_header_reply">reply received</string>
+
+
+</resources>
